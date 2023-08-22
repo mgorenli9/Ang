@@ -1,2 +1,2 @@
 # Angular makes me excited! 
-There are some Angular project that i have developed in the journey of learning Angular 
+There are some Angular project that I have developed during my learning journey.
